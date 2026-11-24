@@ -2,4 +2,5 @@ python-telegram-bot[job-queue]>=21
 tzdata
 httpx
 pillow
+numpy
 cairosvg
